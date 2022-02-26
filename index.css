@@ -1,1 +1,19 @@
+body {
+  background-color: lightyellow;
+}
 
+h1 {
+  color: MediumPurple;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 50px;
+  margin-left: 50px;
+}
+
+p1 {
+  color: pink;
+  margin-left: 50px;
+  text-align: center;
+  font-family:  Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
