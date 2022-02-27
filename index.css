@@ -5,8 +5,8 @@ body {
 h1 {
   color: SlateBlue;
   text-align: center;
-  font-family: "Lucida Console", "Courier New", monospace;
-  font-size: 60px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 80px;
   text-shadow: 2px 2px 4px #808080;
 }
 
