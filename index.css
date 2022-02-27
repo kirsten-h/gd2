@@ -19,7 +19,7 @@ h2 {
 
 p.a {
   color: Tomato;
-  background-color: lightblue;
+  background-color: SlateBlue;
   text-align: center;
   font-family:  Arial, Helvetica, sans-serif;
   font-size: 20px;
@@ -41,7 +41,6 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border-radius: 8px;
 }
   
 
