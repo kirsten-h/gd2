@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-  color: DarkOliveGreen;
+  color: SlateBlue;
   text-align: center;
   font-family: "Lucida Console", "Courier New", monospace;
   font-size: 60px;
@@ -11,7 +11,7 @@ h1 {
 }
 
 h2 {
-  color: lightblue;
+  color: MediumSlateBlue;
   text-align: center;
   font-family: "Times New Roman", Times, serif;
   font-size: 35px;
